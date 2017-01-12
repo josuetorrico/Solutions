@@ -32,6 +32,6 @@ int main() {
     for (int i=0 ;i < len; i++){
         printf("%i ", arr[i]);
     }
-    
+     
     return 0;
 }
