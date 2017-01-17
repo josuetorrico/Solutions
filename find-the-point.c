@@ -4,8 +4,7 @@
 #include <stdlib.h>
 
 int main() {
-
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+ 
     //To solve this problem, I am going to use the midpoint formula to obtain the point r
     
     //We need a variable n for the # of points
